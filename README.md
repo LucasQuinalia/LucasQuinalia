@@ -7,14 +7,47 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasQuinalia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/LucasQuinalia/LucasQuinalia/blob/output/github-contribution-grid-snake.svg)
+## 🔭 I’m currently working on RetroReads Android application & My portfolio
+<div align="left">
+  <img height="36em" src="https://imgur.com/DAsGHhe.png" alt="RetroReads"/>
+</div>
+  
+## 🌱 I’m currently learning:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin" height="36em" alt="kotlin logo"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+## 👯 I’m looking to collaborate on native Android projects
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="36em" alt="androidstudio logo"/>
+</div>
+
+###
+
+<h2 align="left">Stacks</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
+</div>
+
+###
+
+<p align="left">Java, Firebase, Android Studio, Figma and Notion</p>
+
+## ⚡Fun fact: I'm a bookworm!
+<img loading="lazy" height="36em" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iNjgyLTI0NS1wLnBuZw.png"/>
 
 ## 📫 How to reach me:
 <div>

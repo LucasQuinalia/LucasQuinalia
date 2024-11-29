@@ -28,16 +28,14 @@
 ### Kotlin and Git
 
 ## 👯 I’m looking to collaborate on:
-- Native Android projects
 <div align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio" height="60em" alt="androidstudio logo"/>
 </div>
 
-### Android Studio
+### Native Android projects
 
 ## 💻 Stacks
 
-##
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="60em" alt="java logo"/>
   <img width="12" />

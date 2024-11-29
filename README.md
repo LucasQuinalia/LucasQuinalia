@@ -9,17 +9,17 @@
 
 ## 🔭 I’m currently working on RetroReads Android application & My portfolio
 <div align="left">
-  <img height="36em" src="https://imgur.com/DAsGHhe.png" alt="RetroReads"/>
+  <img height="100em" src="https://imgur.com/DAsGHhe.png" alt="RetroReads"/>
 </div>
   
 ## 🌱 I’m currently learning:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="36em" alt="kotlin logo"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" height="100em" alt="kotlin logo"/>
 </div>
 
 ## 👯 I’m looking to collaborate on native Android projects
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="36em" alt="androidstudio logo"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="100em" alt="androidstudio logo"/>
 </div>
 
 ###
@@ -29,25 +29,22 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
+  <img src="https://skillicons.dev/icons?i=java" height="100em" alt="java logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="100em" alt="firebase logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="100em" alt="androidstudio logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="100em" alt="figma logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"/>
+  <img src="https://skillicons.dev/icons?i=notion" height="100em" alt="notion logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
+  <img src="https://skillicons.dev/icons?i=git" height="100em" alt="git logo"/>
 </div>
 
 ###
 
-<p align="left">Java, Firebase, Android Studio, Figma and Notion</p>
-
-## ⚡Fun fact: I'm a bookworm!
-<img loading="lazy" height="36em" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iNjgyLTI0NS1wLnBuZw.png"/>
+<p align="left">Java, Firebase, Android Studio, Figma, Notion and Git</p>
 
 ## 📫 How to reach me:
 <div>

@@ -1,9 +1,9 @@
-# 👋 Hello! Welcome to my Github profile.
+## 👋 Hello! Welcome to my Github profile.
 
-## 👤 About me:
-- My name is Lucas;
-- I'm a university student of Systems Analysis and Development (last semester);
-- Looking forward to working on native Android app development.
+### 👤 About me:
+- My name is Lucas
+- I'm a university student of Systems Analysis and Development (last semester)
+- Looking forward to working on native Android app development
 
 <div>
 <a href="https://github.com/LucasQuinalia">
@@ -11,31 +11,31 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasQuinalia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## 🔭 I’m currently working on:
-- RetroReads Android app (university project);
-- My portfolio.
+### 🔭 I’m currently working on:
+- RetroReads Android app (university project)
+- My portfolio
 <div align="left">
   <img height="60em" src="https://imgur.com/DAsGHhe.png" alt="RetroReads"/>
 </div>
   
-## 🌱 I’m currently learning:
-- Kotlin;
+### 🌱 I’m currently learning:
+- Kotlin
 - Git
 <div align="left">
   <img src="https://skillicons.dev/icons?i=kotlin" height="60em" alt="kotlin logo"/>
+  img width="12"/>
+  <img src="https://skillicons.dev/icons?i=git" height="60em" alt="git logo"/>
 </div>
 
-## 👯 I’m looking to collaborate on native Android projects
+### 👯 I’m looking to collaborate on:
+- Native Android projects
 <div align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio" height="60em" alt="androidstudio logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=git" height="60em" alt="git logo"/>
 </div>
 
 ### 💻 Stacks
 
 ###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="60em" alt="java logo"/>
   <img width="12" />
@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="60em" alt="git logo"/>
 </div>
 
-### <p align="left">Java, Firebase, Android Studio, Figma, Notion and Git</p>
+### Java, Firebase, Android Studio, Figma, Notion and Git
 
 ## 📫 How to reach me:
 <div>

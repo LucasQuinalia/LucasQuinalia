@@ -12,7 +12,7 @@
 </div>
 
 ## 🔭 I’m currently working on:
-- RetroReads Android App (college project);
+- RetroReads app for Android (university project);
 - My portfolio.
 <div align="left">
   <img height="75em" src="https://imgur.com/DAsGHhe.png" alt="RetroReads"/>

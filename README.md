@@ -23,7 +23,7 @@
 - Git
 <div align="left">
   <img src="https://skillicons.dev/icons?i=kotlin" height="60em" alt="kotlin logo"/>
-  img width="12"/>
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=git" height="60em" alt="git logo"/>
 </div>
 

@@ -1,6 +1,6 @@
-## 👋 Hello! Welcome to my Github profile.
+# 👋 Hello! Welcome to my Github profile.
 
-### 👤 About me:
+## 👤 About me:
 - My name is Lucas
 - I'm a university student of Systems Analysis and Development (last semester)
 - Looking forward to working on native Android app development
@@ -11,31 +11,33 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasQuinalia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### 🔭 I’m currently working on:
-- RetroReads Android app (university project)
-- My portfolio
+## 🔭 I’m currently working on:
 <div align="left">
   <img height="60em" src="https://imgur.com/DAsGHhe.png" alt="RetroReads"/>
 </div>
+
+### RetroReads Android app (university project)
   
-### 🌱 I’m currently learning:
-- Kotlin
-- Git
+## 🌱 I’m currently learning:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=kotlin" height="60em" alt="kotlin logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=git" height="60em" alt="git logo"/>
 </div>
 
-### 👯 I’m looking to collaborate on:
+### Kotlin and Git
+
+## 👯 I’m looking to collaborate on:
 - Native Android projects
 <div align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio" height="60em" alt="androidstudio logo"/>
 </div>
 
-### 💻 Stacks
+### Android Studio
 
-###
+## 💻 Stacks
+
+##
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="60em" alt="java logo"/>
   <img width="12" />

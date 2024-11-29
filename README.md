@@ -15,17 +15,21 @@
 - RetroReads Android app (university project);
 - My portfolio.
 <div align="left">
-  <img height="75em" src="https://imgur.com/DAsGHhe.png" alt="RetroReads"/>
+  <img height="60em" src="https://imgur.com/DAsGHhe.png" alt="RetroReads"/>
 </div>
   
-## 🌱 I’m currently learning Kotlin
+## 🌱 I’m currently learning:
+- Kotlin;
+- Git
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="75em" alt="kotlin logo"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60em" alt="kotlin logo"/>
 </div>
 
 ## 👯 I’m looking to collaborate on native Android projects
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="75em" alt="androidstudio logo"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60em" alt="androidstudio logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=git" height="60em" alt="git logo"/>
 </div>
 
 ### 💻 Stacks
@@ -33,17 +37,17 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="75em" alt="java logo"/>
+  <img src="https://skillicons.dev/icons?i=java" height="60em" alt="java logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="75em" alt="firebase logo"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="60em" alt="firebase logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="75em" alt="androidstudio logo"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60em" alt="androidstudio logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="75em" alt="figma logo"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="60em" alt="figma logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="75em" alt="notion logo"/>
+  <img src="https://skillicons.dev/icons?i=notion" height="60em" alt="notion logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=git" height="50em" alt="git logo"/>
+  <img src="https://skillicons.dev/icons?i=git" height="60em" alt="git logo"/>
 </div>
 
 ### <p align="left">Java, Firebase, Android Studio, Figma, Notion and Git</p>

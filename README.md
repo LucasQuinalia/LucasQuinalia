@@ -9,17 +9,17 @@
 
 ## 🔭 I’m currently working on RetroReads Android application & My portfolio
 <div align="left">
-  <img height="100em" src="https://imgur.com/DAsGHhe.png" alt="RetroReads"/>
+  <img height="75em" src="https://imgur.com/DAsGHhe.png" alt="RetroReads"/>
 </div>
   
 ## 🌱 I’m currently learning:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="100em" alt="kotlin logo"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" height="75em" alt="kotlin logo"/>
 </div>
 
 ## 👯 I’m looking to collaborate on native Android projects
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="100em" alt="androidstudio logo"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="75em" alt="androidstudio logo"/>
 </div>
 
 ###
@@ -29,17 +29,17 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="100em" alt="java logo"/>
+  <img src="https://skillicons.dev/icons?i=java" height="75em" alt="java logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="100em" alt="firebase logo"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="75em" alt="firebase logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="100em" alt="androidstudio logo"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="75em" alt="androidstudio logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="100em" alt="figma logo"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="75em" alt="figma logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="100em" alt="notion logo"/>
+  <img src="https://skillicons.dev/icons?i=notion" height="75em" alt="notion logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=git" height="100em" alt="git logo"/>
+  <img src="https://skillicons.dev/icons?i=git" height="75em" alt="git logo"/>
 </div>
 
 ###
@@ -48,6 +48,6 @@
 
 ## 📫 How to reach me:
 <div>
-<a href = "mailto:lrgquinalia@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/lucas-quinalia/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:lrgquinalia@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-quinalia/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>

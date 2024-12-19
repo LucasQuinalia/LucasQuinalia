@@ -12,7 +12,7 @@
 
 ## 🔭 I’m currently working on:
 <div align="left">
-  <img height="60em" src="https://imgur.com/DAsGHhe.png" alt="RetroReads"/>
+  <img height="60em" src="https://imgur.com/DAsGHhe.png" a="https://github.com/LucasQuinalia/RetroReads-Android" alt="RetroReads"/>
 </div>
 
 ### RetroReads Android app (university project)

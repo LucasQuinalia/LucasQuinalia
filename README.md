@@ -12,7 +12,7 @@
 
 ## 🔭 I’m currently working on:
 <div align="left">
-  <img height="60em" src="https://imgur.com/DAsGHhe.png" a="https://github.com/LucasQuinalia/RetroReads-Android" alt="RetroReads"/>
+  <img height="60em" src="https://imgur.com/DAsGHhe.png" alt="RetroReads"/>
 </div>
 
 ### RetroReads Android app (university project)
@@ -37,6 +37,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="60em" alt="java logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60em" alt="java logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60em" alt="firebase logo"/>
   <img width="12" />

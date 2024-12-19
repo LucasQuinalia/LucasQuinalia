@@ -20,11 +20,9 @@
 ## 🌱 I’m currently learning:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=kotlin" height="60em" alt="kotlin logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=git" height="60em" alt="git logo"/>
 </div>
 
-### Kotlin and Git
+### Kotlin
 
 ## 👯 I’m looking to collaborate on:
 <div align="left">
@@ -51,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="60em" alt="git logo"/>
 </div>
 
-### Java, Firebase, Android Studio, Figma, Notion and Git
+### Java, Kotlin, Firebase, Android Studio, Figma, Notion and Git
 
 ## 📫 How to reach me:
 <div>

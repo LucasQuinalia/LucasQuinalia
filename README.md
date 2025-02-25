@@ -2,7 +2,7 @@
 
 ## 👤Sobre mim:
 - Me chamo Lucas Quinália
-- Sou um desenvolvedor web com certo conhecimento de UI/UX e desenvolvimento Android
+- Sou um desenvolvedor web com conhecimento de UI/UX e desenvolvimento Android
 - Sou apaixonado por colocar minhas ideias em prática através do código
 
 <div>

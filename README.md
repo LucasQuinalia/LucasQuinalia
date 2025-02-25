@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="60em" alt="javascript logo"/>
   <img width="12" />
-  <blockquote class="imgur-embed-pub" lang="en" data-id="NvyLDsX"></blockquote>
+  [Imgur](https://imgur.com/NvyLDsX)
   <img src="https://imgur.com/a/rGqoqLa.png" height="60em" alt="typescript logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60em" alt="react logo"/>

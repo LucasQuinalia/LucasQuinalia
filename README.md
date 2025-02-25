@@ -5,11 +5,6 @@
 - Sou um desenvolvedor web com conhecimento de UI/UX e desenvolvimento Android
 - Sou apaixonado por colocar minhas ideias em prática através do código
 
-<div>
-  <a href="https://github.com/LucasQuinalia">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasQuinalia&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>
-</div>
-
 ## 🔭 Atualmente estou trabalhando em:
 <div align="left">
   <img height="60em" src="https://imgur.com/it1LiHu.png" alt="lock in logo"/>

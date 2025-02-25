@@ -12,7 +12,7 @@
 
 ## 🔭 Atualmente estou trabalhando em:
 <div align="left">
-  <img height="60em" src="https://imgur.com/a/A5qbCv7.png" alt="lock in logo"/>
+  <img height="60em" src="https://imgur.com/jyEoNFE.png" alt="lock in logo"/>
 </div>
 
 ### Aplicativo web do Lock in
@@ -21,7 +21,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="60em" alt="javascript logo"/>
   <img width="12" />
-  <img src="https://imgur.com/a/wmDGRo7.png" height="60em" alt="typescript logo"/>
+  <img height="60em" src="https://imgur.com/DAsGHhe.png" alt="RetroReads"/>
+  <img src="https://imgur.com/Ujt9IAb.png" height="60em" alt="typescript logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60em" alt="react logo"/>
   <img width="12" />
@@ -35,7 +36,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="60em" alt="javascript logo"/>
   <img width="12" />
-  <img src="https://imgur.com/a/rGqoqLa" height="60em" alt="typescript logo"/>
+  <img src="https://imgur.com/Ujt9IAb.png" height="60em" alt="typescript logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60em" alt="react logo"/>
   <img width="12" />

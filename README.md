@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="60em" alt="javascript logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js](https://imgur.com/a/rGqoqLa" height="60em" alt="typescript logo"/>
+  <img src="https://imgur.com/a/rGqoqLa" height="60em" alt="typescript logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60em" alt="react logo"/>
   <img width="12" />
@@ -35,7 +35,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="60em" alt="javascript logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js](https://imgur.com/a/rGqoqLa" height="60em" alt="typescript logo"/>
+  <img src="https://imgur.com/a/rGqoqLa" height="60em" alt="typescript logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60em" alt="react logo"/>
   <img width="12" />
@@ -60,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="60em" alt="git logo"/>
 </div>
 
-### 
+### JavaScript, TypeScript, React.js, Node.js, HTML, CSS, Spring Boot, Java, Kotlin, Firebase, AndroidStudio, Figma e Git
 
 ## 📫 Onde me encontrar:
 <div>

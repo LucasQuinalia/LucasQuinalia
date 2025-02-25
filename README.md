@@ -21,8 +21,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="60em" alt="javascript logo"/>
   <img width="12" />
-  <img height="60em" src="https://imgur.com/pAbKY1k.png" alt="RetroReads"/>
-  <img src="https://imgur.com/Ujt9IAb.png" height="60em" alt="typescript logo"/>
+  <img src="https://imgur.com/pAbKY1k.png" height="60em" alt="typescript logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60em" alt="react logo"/>
   <img width="12" />

@@ -9,8 +9,11 @@
 <div align="left">
   <img height="60em" src="https://imgur.com/it1LiHu.png" alt="lock in logo"/>
 </div>
+<div align="left">
+  <img height="60em" src="https://imgur.com/Htyv0ML.png" alt="lock in logo"/>
+</div>
 
-### Aplicativo web do Lock in
+### Aplicativo web do Lock in e aplicativo web do TestMyPC
   
 ## 🌱 Atualmente estou estudando:
 <div align="left">

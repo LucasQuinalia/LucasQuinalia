@@ -31,29 +31,29 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="60em" alt="javascript logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://imgur.com/pAbKY1k.png" height="60em" alt="typescript logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=react" height="60em" alt="react logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="60em" alt="node logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=html" height="60em" alt="html logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=css" height="60em" alt="css logo"/>
 </div>
 
-<img/>
+<div margin-bottom="6px"></div>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=spring" height="60em" alt="spring logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=java" height="60em" alt="java logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=kotlin" height="60em" alt="kotlin logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=androidstudio" height="60em" alt="androidstudio logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=figma" height="60em" alt="figma logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=git" height="60em" alt="git logo"/>

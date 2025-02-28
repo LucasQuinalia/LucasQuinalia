@@ -41,14 +41,14 @@
   <img src="https://skillicons.dev/icons?i=html" height="60em" alt="html logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60em" alt="css logo"/>
-  <img width="12" />
+</div>
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=spring" height="60em" alt="spring logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60em" alt="java logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="60em" alt="kotlin logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60em" alt="firebase logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="60em" alt="androidstudio logo"/>
   <img width="12" />

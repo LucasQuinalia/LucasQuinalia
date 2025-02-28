@@ -43,7 +43,7 @@
   <img src="https://skillicons.dev/icons?i=css" height="60em" alt="css logo"/>
 </div>
 
-<div margin-bottom="12px"></div>
+<br/>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=spring" height="60em" alt="spring logo"/>

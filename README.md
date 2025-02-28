@@ -8,8 +8,7 @@
 ## 🔭 Atualmente estou trabalhando em:
 <div align="left">
   <img height="60em" src="https://imgur.com/it1LiHu.png" alt="lock in logo"/>
-</div>
-<div align="left">
+  <img width="12" />
   <img height="60em" src="https://imgur.com/Htyv0ML.png" alt="lock in logo"/>
 </div>
 

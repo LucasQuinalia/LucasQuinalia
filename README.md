@@ -9,7 +9,7 @@
 <div align="left">
   <img height="60em" src="https://imgur.com/it1LiHu.png" alt="lock in logo"/>
   <img width="12" />
-  <img height="60em" src="https://imgur.com/Htyv0ML.png" alt="lock in logo"/>
+  <img height="60em" src="https://imgur.com/Htyv0ML.png" alt="testmypc logo"/>
 </div>
 
 ### Aplicativo web do Lock in e aplicativo web do TestMyPC

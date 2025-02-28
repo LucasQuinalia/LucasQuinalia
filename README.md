@@ -12,7 +12,7 @@
   <img height="60em" src="https://imgur.com/Htyv0ML.png" alt="testmypc logo"/>
 </div>
 
-### Aplicativo web do Lock in e aplicativo web do TestMyPC
+### Lock in e TestMyPC
   
 ## 🌱 Atualmente estou estudando:
 <div align="left">

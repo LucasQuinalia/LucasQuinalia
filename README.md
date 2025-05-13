@@ -4,15 +4,6 @@
 - Me chamo Lucas Quinália
 - Sou um desenvolvedor back-end
 - Sou apaixonado por colocar minhas ideias em prática através do código
-
-## 🔭 Atualmente estou trabalhando em:
-<div align="left">
-  <img height="60em" src="https://imgur.com/it1LiHu.png" alt="lock in logo"/>
-  <img width="12" />
-  <img height="60em" src="https://imgur.com/Htyv0ML.png" alt="testmypc logo"/>
-</div>
-
-### Lock in e TestMyPC
   
 ## 🌱 Atualmente estou estudando:
 <div align="left">

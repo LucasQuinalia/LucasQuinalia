@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=spring" height="60em" alt="spring logo"/>
 </div>
 
-### JavaScript, TypeScript, React.js, Node.js
+### Java e Spring
 
 ## 💻 Tecnologias
 
@@ -30,14 +30,12 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=spring" height="60em" alt="spring logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=kotlin" height="60em" alt="kotlin logo"/>
-  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=git" height="60em" alt="git logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=figma" height="60em" alt="figma logo"/>
 </div>
 
-### Java, Spring, Kotlin, Git e Figma
+### Java, Spring, Git e Figma
 
 ## 📫 Onde me encontrar:
 <div>

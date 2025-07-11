@@ -31,6 +31,7 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=html" height="60em" alt="html logo"/>
   <br/>
+  <br/>
   <img src="https://skillicons.dev/icons?i=css" height="60em" alt="css logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=firebase" height="60em" alt="firebase logo"/>

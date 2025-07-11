@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=cs" height="60em" alt="c# logo"/>
 </div>
 
-### 
+### Java, Spring, Kotlin, JavaScript, React.js, Node.js, HTML, CSS, Firebase, Android Studio, Git, Figma, Unity e C#
 
 ## 📫 Onde me encontrar:
 <div>
